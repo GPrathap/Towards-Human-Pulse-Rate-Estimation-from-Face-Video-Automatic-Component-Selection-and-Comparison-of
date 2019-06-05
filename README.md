@@ -86,7 +86,9 @@ Configurations needs to be changed appropriately in ACS.py and before running th
 ### Citing
 
 If you find this paper useful in some way, you can cite it with the following BibTeX entry:
-## @INPROCEEDINGS{8710532, 
+https://ieeexplore.ieee.org/abstract/document/8710532
+
+@INPROCEEDINGS{8710532, 
 author={V. {Ostankovich} and G. {Prathap} and I. {Afanasyev}}, 
 booktitle={2018 International Conference on Intelligent Systems (IS)}, 
 title={Towards Human Pulse Rate Estimation from Face Video: Automatic Component Selection and Comparison of Blind Source Separation Methods}, 
