@@ -1,7 +1,7 @@
 <a href=""><img src="https://img.shields.io/badge/download%20paper-PDF-ff69b4.svg" alt="Download paper in PDF format" title="Download paper in PDF format" align="right" /></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT licensed" title="MIT licensed" align="right" /></a>
 
-## Towards an algorithm for automatic vision-based pulse detection
+## Towards Human Pulse Rate Estimation from Face Video: Automatic Component Selection and Comparison of Blind Source Separation Methods https://arxiv.org/abs/1810.11770 
 > ###### Table of Contents
 >
 >  * [Abstract](#Abstract)
@@ -86,4 +86,15 @@ Configurations needs to be changed appropriately in ACS.py and before running th
 ### Citing
 
 If you find this paper useful in some way, you can cite it with the following BibTeX entry:
-##todo
+## @INPROCEEDINGS{8710532, 
+author={V. {Ostankovich} and G. {Prathap} and I. {Afanasyev}}, 
+booktitle={2018 International Conference on Intelligent Systems (IS)}, 
+title={Towards Human Pulse Rate Estimation from Face Video: Automatic Component Selection and Comparison of Blind Source Separation Methods}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={183-189}, 
+keywords={blind source separation;cardiovascular system;computer vision;electrocardiography;face recognition;feature extraction;higher order statistics;independent component analysis;medical signal processing;patient monitoring;principal component analysis;face video datasets;blind source separation methods;human heartbeat;patient condition;contact base;noncontact base;computer vision assisted techniques;contact-based techniques;clinical section;illumination changes;skin tones;face image;key point detection;facial subregions;component analysis methods;cardiovascular pulse signal;facial expression;automatic components selection technique;optimal component;peak detection technique;human pulse rate estimation;vision guided approaches;Face;Feature extraction;Heart beat;Principal component analysis;Electrocardiography;Pulse measurements;Blind source separation;video-based pulse detection;face feature tracking;component analysis;automatic component selection;moving dynamic time warping;singular spectral analysis}, 
+doi={10.1109/IS.2018.8710532}, 
+ISSN={1541-1672}, 
+month={Sep.},}
